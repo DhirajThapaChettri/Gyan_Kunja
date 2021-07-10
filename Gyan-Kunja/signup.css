@@ -1,0 +1,101 @@
+/*css file*/
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(134, 128, 219);
+}
+.container {
+  width: 500px;
+  height: 500%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.my-form {
+  background: #fff;
+
+  height: 570px;
+  position: relative;
+  top: 30px;
+  width: 550px;
+  border-radius: 5px;
+}
+.form-tit {
+  text-align: center;
+
+  height: 80px;
+  background-color: rgb(68, 147, 250);
+
+  color: white;
+  padding-bottom: 0%;
+  position: relative;
+  top: 80px;
+  border-radius: 10px;
+}
+.single-input i {
+  padding: 8px 16px;
+  color: rgb(68, 147, 250);
+
+  color: #535555;
+  background-color: #f0eef0;
+  font-size: 32px;
+}
+.single-input {
+  width: 270px;
+  border: 1px solid #c1c1c1;
+  display: flex;
+  margin-bottom: 15px;
+  color: rgb(68, 147, 250);
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 400px;
+  height: 50px;
+}
+
+.single-input input {
+  border: 0px solid #c1c1c1;
+  width: 100%;
+  outline: none;
+  height: 30px;
+  font-size: 18px;
+
+  text-align: left;
+  padding-top: 15px;
+}
+label a {
+  color: rgb(110, 110, 255);
+  text-decoration: none;
+}
+
+div h1 {
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+form {
+  padding-left: 30px;
+}
+
+div p {
+  padding-left: 30px;
+  font-style: normal;
+}
+
+button {
+  background-color: rgb(110, 110, 255);
+  color: white;
+  width: 180px;
+  margin-top: 30px;
+  font-size: x-large;
+  text-align: center;
+  height: 50px;
+  border-radius: 3px;
+  border: none;
+  font-weight: bold;
+}
+h4 {
+  text-align: center;
+  padding-top: 20px;
+  font-weight: normal;
+  color: white;
+}
